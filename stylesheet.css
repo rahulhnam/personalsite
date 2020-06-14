@@ -1,0 +1,28 @@
+.bkgnd{
+    background-color: black;
+    font-size: smaller;
+    text-align: center;
+    height: 700px;
+}
+h1{
+    text-align: left;
+    visibility: visible;
+    padding-top: 42px;
+    padding-left: 65px;
+}
+h1:hover{
+    visibility: hidden;
+}
+.displan{
+    float: right;
+    color: aquamarine;
+    font-size: 12px;
+    padding-top: 42px;
+    padding-right: 65px;
+}
+.allhead{
+    color: cornflowerblue;
+    float: left;
+
+
+    }
